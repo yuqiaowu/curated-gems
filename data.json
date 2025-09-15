@@ -68,6 +68,62 @@
 "summary_zh": "报道称，比特币在 11.5 万–12.5 万美元区间横盘，过去 30 天巨鲸抛售约 11.6 万枚 BTC（约 130 亿美元），为自 2022 年 7 月以来最大规模。分析师 Doctor Profit 将该区间视为主要获利了结带；现货比特币 ETF 日均净流入降至约 500 枚 BTC，吸收能力不足以推动突破。尽管有宏观消息面扰动，BTC 近一周基本横盘（~11.087 万–11.6705 万美元），部分资金转向山寨币（如 PEPE、DOGE）。",
 "best_quote_en": "Whales sold 116K BTC ($13B) in 30 days, the largest dump since July 2022.",
 "best_quote_zh": "过去30天巨鲸抛售11.6万枚BTC（约130亿美元），为自2022年7月以来最大。"
+},
+  {
+"id": 1,
+"title": "Cracking the code of vibe coding",
+"title_zh": "破解 Vibe Coding 的密码",
+"source": "UX Collective (Medium)",
+"link": "https://medium.com/user-experience-design-1/cracking-the-code-of-vibe-coding-124b9288e551",
+"tags": ["vibe coding", "AI-assisted development", "UX", "no-code", "software craft", "maintenance", "distribution"],
+"tags_zh": ["vibe coding", "AI 辅助开发", "用户体验", "无代码", "软件匠艺", "维护", "分发"],
+"date": "2025-03-21",
+"summary_en": "Pete Sena explains 'vibe coding'—building apps by describing them to AI—and argues it’s real and rapidly democratizing software creation. He warns that while creation is now easy, maintainability, security, and true craftsmanship suffer if makers don’t understand systems. He outlines four frameworks: creation vs. maintenance; three tiers of creators (prompt engineer → architect → innovator); intellectual leverage over execution; and the specialization paradox. He also notes distribution becomes the key moat as build cycles collapse, potentially disrupting no-code tools. The takeaway: use AI as augmentation, keep fundamentals strong, and focus on solving the right problems.",
+"summary_zh": "作者 Pete Sena 介绍了“vibe coding”：用自然语言对 AI 描述想要的应用并快速生成可用产品。这种方式让软件创作被大幅民主化，但他提醒：如果不了解底层系统，维护性、安全性与“匠艺”会受损。文章提出四个框架：创作 vs 维护的分野；创作者的三层级（提示工程师→解决方案架构师→系统创新者）；从“执行杠杆”到“思维杠杆”；以及“专业化悖论”。此外，随着开发—上市周期被压缩，“分发能力”成为新护城河，并将冲击传统无代码平台。结论是：把 AI 当增强而非替代，夯实基础，专注选择正确的问题。",
+"best_quote_en": "Vibe coding excels at creation but struggles with maintenance.",
+"best_quote_zh": "Vibe coding 在“创作”上很强，但在“维护”上却吃力。"
+},
+  {
+"id": 1,
+"title": "Rolling Stone’s parent company sues Google over AI Overviews",
+"title_zh": "《滚石》母公司就 Google“AI 总结”提起诉讼",
+"source": "The Verge",
+"link": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
+"tags": ["Google", "AI Overviews", "Penske Media", "Rolling Stone", "publisher lawsuit", "antitrust", "traffic"],
+"tags_zh": ["谷歌", "AI 总结", "Penske Media", "滚石", "出版商诉讼", "反垄断", "流量"],
+"date": "2025-09-14",
+"summary_en": "The Verge reports that Penske Media Corporation (publisher of Rolling Stone and The Hollywood Reporter) filed a lawsuit against Google alleging the AI Overviews feature reduces clicks to original articles and harms revenue. PMC says affiliate-link revenue is down by over one-third this year and argues it’s coerced into allowing its content in AI Overviews or risk losing search visibility. The piece situates the case among broader publisher pushback (e.g., Chegg and European independents) and includes Google’s response that AI Overviews make search more helpful and drive traffic.",
+"summary_zh": "《The Verge》称，《滚石》《好莱坞报道者》的母公司 Penske Media 起诉 Google，指控“AI 总结”功能让用户无需点进原文，导致流量与收入受损。PMC 称其联盟链接收入今年下滑逾三分之一，并表示要么允许内容被用于 AI 总结，要么在搜索结果中失去可见度。文章还提到 Chegg 与欧洲独立媒体的相关诉讼与抗议；Google 的回应是 AI 总结让搜索更有用并能带来流量。",
+"best_quote_en": "PMC says continuing to allow Google to use its content is “adding fuel to a fire that threatens PMC’s entire publishing business.”",
+"best_quote_zh": "PMC 称，继续允许 Google 使用其内容是在“火上浇油，威胁到 PMC 整个出版业务”。"
+},
+  {
+"id": 1,
+"title": "Demis Hassabis’ latest on AGI: Genie 3, world models, and a coming ‘scientific golden age’",
+"title_zh": "DeepMind哈萨比斯最新认知都在这里了",
+"source": "量子位 (QbitAI)",
+"link": "https://www.qbitai.com/2025/09/332346.html",
+"tags": ["DeepMind", "Demis Hassabis", "AGI", "Genie 3", "world model", "robotics", "Google", "Veo"],
+"tags_zh": ["DeepMind", "哈萨比斯", "AGI", "Genie 3", "世界模型", "机器人", "谷歌", "Veo"],
+"date": "2025-09-15",
+"summary_en": "QbitAI summarizes a new interview with Google DeepMind CEO Demis Hassabis. He argues that achieving full AGI within ~10 years could usher in a ‘scientific golden age.’ Current AI lacks PhD-level breadth and true creativity, so DeepMind is building multimodal world models like Genie 3 (and video model Veo) to learn physical dynamics from video and enable interactive, consistent environments. Robots will rely on such perception–action models; DeepMind is pursuing an ‘Android-like’ OS layer for robots alongside vertically integrated designs. Hassabis sees near-term breakthroughs improving reliability, with millions of robots eventually boosting productivity, while human-shaped and task-specific forms will coexist.",
+"summary_zh": "量子位翻译/整理了谷歌DeepMind CEO 哈萨比斯的最新访谈。他认为，若在未来约10年实现完全AGI，将开启“科学的黄金时代”。当下AI尚不具备“博士级”广度与真正创造力，因此DeepMind正通过多模态“世界模型”推进理解物理世界的能力：如Genie 3（以及文生视频模型Veo）能从海量视频中学习物理规律，生成可交互且一致性的虚拟场景。机器人将依赖此类感知—行动模型；DeepMind一方面打造跨机器人的通用操作系统层（类似“安卓模式”），另一方面探索垂直整合的端到端方案。哈萨比斯预计短期内模型可靠性将显著提升，长期会有数百万台机器人提升社会生产力，人形与专用形态将并存。",
+"best_quote_en": "“If we had full AGI in the next decade, it would usher in a scientific golden age — a new kind of Renaissance.”",
+"best_quote_zh": "“如果我们在未来十年内拥有完全的AGI，将开创一个科学的黄金时代，一种新的文艺复兴。”"
+},
+  {
+"id": 1,
+"title": "Musk’s $1 Trillion Compensation OKRs at Tesla",
+"title_zh": "来看看马斯克1000000000000美元薪酬OKR",
+"source": "量子位 (QbitAI)",
+"link": "https://www.qbitai.com/2025/09/329617.html",
+"tags": ["Tesla", "Elon Musk", "compensation", "stock options", "OKR", "market cap", "Robotaxi", "FSD", "humanoid robots"],
+"tags_zh": ["特斯拉", "马斯克", "薪酬方案", "期权激励", "OKR", "市值目标", "Robotaxi", "FSD", "人形机器人"],
+"date": "2025-09-09",
+"summary_en": "QbitAI reports Tesla’s board proposed a 10-year, zero-salary, all-options package for Elon Musk that could be worth ~$1T if extreme OKRs are hit. In 12 tranches tied to market-cap and operating goals, Musk must drive Tesla to $8.5T market cap; reach adj. EBITDA of $400B (min tier $50B); deliver 20M cars cumulatively; reach 10M active FSD subs; ship 1M Tesla robots; and deploy 1M robotaxis. If achieved, Musk’s stake could rise from ~13% to ~25% (the extra ~12% worth $1T at $8.5T). The plan needs shareholder approval at the November AGM; context includes the prior 2018 package being struck down twice in Delaware and a separate 96M-share retention RSU ($30B) to keep Musk as CEO through 2030 amid weaker Q2 results.",
+"summary_zh": "报道称，特斯拉董事会为马斯克提出一项为期10年的“0工资、全期权”激励，若完成极高难度的OKR，潜在总价值可达约1万亿美元。方案分12档，与市值与运营指标挂钩：把特斯拉做到8.5万亿美元市值；调整后EBITDA达4000亿美元（最低档500亿美元）；累计交付2000万辆汽车；FSD活跃订阅1000万；交付100万台机器人；投运100万辆Robotaxi。全部达成后，马斯克持股可由约13%升至约25%（额外约12%在8.5万亿美元估值下约合1万亿美元）。该方案仍待11月股东大会表决；背景包括2018年期权激励两度被特拉华法院判无效，以及公司为留任推出的9600万股限制性股票（约300亿美元）与近期Q2业绩走弱。",
+"best_quote_en": "“The performance targets are the toughest ever — pushing Tesla to a market cap of $8.5 trillion.”",
+"best_quote_zh": "“绩效目标也是史上最严苛——市值要攀至8.5万亿美元。”"
 }
   
 ]
