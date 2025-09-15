@@ -26,5 +26,49 @@
 "summary_zh": "文章称，一笔来自 Kraken 的巨额提现引发关注：一个新启用的钱包从交易所转出 21,925 枚 ETH（约 1.0224 亿美元），由链上分析机构 Onchain Lens 监测到。文中给出可能原因（机构建仓、巨鲸调仓、或交易所内部操作），并强调此类转账对市场的影响并非必然，需结合更广泛的行情与情绪解读。同时介绍了链上数据对识别异常资金流的价值。",
 "best_quote_en": "This single Kraken ETH withdrawal amounted to 21,925 ETH, which translates to a staggering $102.24 million at the time of the transaction.",
 "best_quote_zh": "这笔来自 Kraken 的单笔 ETH 提现共计 21,925 枚，以当时价格折合约 1.0224 亿美元。"
+},
+  {
+"id": 1,
+"title": "Long Wait for Ether Profits as Exit Queue Surges to Record 45 Days",
+"title_zh": "以太坊赎回队列创纪录达 45 天，获利等待时间拉长",
+"source": "CryptoPotato",
+"link": "https://cryptopotato.com/long-wait-for-ether-profits-as-exit-queue-surges-to-record-45-days/",
+"tags": ["Ethereum", "staking", "exit queue", "unstaking", "Beacon Chain", "market flow", "CryptoQuant", "Kiln"],
+"tags_zh": ["以太坊", "质押", "退出队列", "赎回", "信标链", "资金流", "CryptoQuant", "Kiln 事件"],
+"date": "2025-09-15",
+"summary_en": "Ethereum’s validator exit queue has climbed to a record ~45 days after spiking to about 2.6M ETH. The surge coincides with ETH revisiting >$4,700 and is attributed to profit-taking and validator rebalancing; Kiln Finance’s mass withdrawal tied to a security incident also contributed. CryptoQuant notes staking inflows remain robust, entry queue is ~600k ETH, and exchange inflows of unstaked ETH are moderate—suggesting limited immediate sell pressure unless inflows accelerate. ETH hovered near ~$4,550 at press time, ~6.5% below the Aug 24 ATH of $4,946.",
+"summary_zh": "以太坊验证者退出队列升至历史新高，赎回等待约 45 天，队列规模一度达约 260 万枚 ETH。该现象与 ETH 再度上探 4,700 美元有关，主要由获利了结与验证者再平衡驱动；同时，因安全事件引发的 Kiln Finance 大额提现也推高了队列。CryptoQuant 指出，质押流入仍稳健，进入队列约 60 万枚 ETH，且被赎回的 ETH 流入交易所并不显著——除非交易所净流入激增，短期抛压或有限。发稿时 ETH 在约 4,550 美元一线，距离 8 月 24 日 4,946 美元历史高点约差 6.5%。",
+"best_quote_en": "The Ethereum exit queue is at its highest ever waiting time, with a whopping 45 days to unstake the asset.",
+"best_quote_zh": "以太坊退出队列的等待时间创下历史新高——赎回需要长达 45 天。"
+},
+  {
+"id": 1,
+"title": "pump.fun Captures 90.6% of Solana Launchpad Market Share — Jupiter Data (Sept 15)",
+"title_zh": "pump.fun 占据 90.6% Solana 发射台市场份额——Jupiter 数据（9月15日）",
+"source": "COINOTAG NEWS",
+"link": "https://en.coinotag.com/breakingnews/pump-fun-captures-90-6-of-solana-launchpad-market-share-jupiter-data-sept-15/",
+"tags": ["Solana", "launchpad", "pump.fun", "Jupiter", "market share", "crypto data"],
+"tags_zh": ["Solana", "发射台", "pump.fun", "Jupiter", "市场份额", "加密数据"],
+"date": "2025-09-15",
+"summary_en": "A 24-hour snapshot from Jupiter’s Data Dashboard shows strong concentration in Solana launchpads: pump.fun leads with 90.6% market share, followed by Letsbonk (5.18%) and Believe (1.66%). The piece stresses these are short-term rankings and urges considering liquidity and concentration when assessing token launch dynamics.",
+"summary_zh": "Jupiter 数据面板的 24 小时快照显示 Solana 发射台市场高度集中：pump.fun 以 90.6% 份额居首，Letsbonk 占 5.18%，Believe 占 1.66%。文章提醒这是短期排名，应结合流动性与集中度评估代币发行生态。",
+"best_quote_en": "pump.fun held the leading position with 90.6% of market share.",
+"best_quote_zh": "pump.fun 以 90.6% 的市场份额位居第一。"
+},
+  {
+"id": 1,
+"title": "Bitcoin Stagnation Explained: Whales Profit-Take in $115K–$125K Zone",
+"title_zh": "比特币为何停滞：巨鲸在 11.5万–12.5 万美元区间获利了结",
+"source": "CryptoPotato",
+"link": "https://cryptopotato.com/bitcoin-stagnation-explained-whales-profit-take-in-115k-125k-zone/
+",
+"tags": ["Bitcoin", "whales", "profit-taking", "range-bound", "ETFs", "market dynamics"],
+"tags_zh": ["比特币", "巨鲸", "获利了结", "区间震荡", "ETF", "市场结构"],
+"date": "2025-09-15",
+"summary_en": "CryptoPotato reports BTC is stuck between $115k–$125k as whales have sold 116,000 BTC ($13B) over the past 30 days—the largest dump since July 2022. Analyst Doctor Profit identifies that band as a key profit-taking zone; meanwhile spot Bitcoin ETF inflows cooled to ~500 BTC/day, leaving insufficient absorption to power a breakout. Despite macro headlines, BTC has mostly moved sideways, with 7-day trading between ~$110,870 and ~$116,705 and capital rotating to alts (e.g., PEPE, DOGE).",
+"summary_zh": "报道称，比特币在 11.5 万–12.5 万美元区间横盘，过去 30 天巨鲸抛售约 11.6 万枚 BTC（约 130 亿美元），为自 2022 年 7 月以来最大规模。分析师 Doctor Profit 将该区间视为主要获利了结带；现货比特币 ETF 日均净流入降至约 500 枚 BTC，吸收能力不足以推动突破。尽管有宏观消息面扰动，BTC 近一周基本横盘（~11.087 万–11.6705 万美元），部分资金转向山寨币（如 PEPE、DOGE）。",
+"best_quote_en": "Whales sold 116K BTC ($13B) in 30 days, the largest dump since July 2022.",
+"best_quote_zh": "过去30天巨鲸抛售11.6万枚BTC（约130亿美元），为自2022年7月以来最大。"
 }
+  
 ]
