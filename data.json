@@ -12,5 +12,20 @@
 "summary_zh": "Finbold 提醒本周有两项大额代币解锁，或对价格形成抛压：Solana（SOL）将解锁 502,930 枚 SOL（约 1.2122 亿美元，约占流通量 0.09%）；Official Trump（TRUMP）将解锁 489 万枚 TRUMP（约 5,882 万美元，约占流通量 1.52%）。文章强调，代币解锁常在短期内压制价格，其影响还取决于当时的整体市场情绪，并给出发稿时的现价（SOL 约 236 美元；TRUMP 约 8.57 美元）。",
 "best_quote_en": "While intended to stagger supply and prevent shocks, they often weigh on prices in the short term.",
 "best_quote_zh": "虽然解锁旨在分散供应、避免冲击，但它们常会在短期内压低价格。"
+},
+  {
+"id": 1,
+"title": "Kraken ETH Withdrawal: A Massive $102.2M Transfer Unveiled",
+"title_zh": "Kraken 以太坊提现：1.022 亿美元巨额转出",
+"source": "BitcoinWorld",
+"link": "https://bitcoinworld.co.in/kraken-eth-withdrawal-massive/
+",
+"tags": ["crypto", "Ethereum", "Kraken", "whale transfer", "on-chain analytics", "exchange outflows"],
+"tags_zh": ["加密货币", "以太坊", "Kraken 交易所", "巨鲸转账", "链上分析", "交易所外流"],
+"date": "2025-09-15",
+"summary_en": "The article reports a large withdrawal from Kraken: a newly activated wallet moved 21,925 ETH (~$102.24M) off the exchange, flagged by on-chain analytics firm Onchain Lens. It outlines possible explanations (institutional buy, whale movement, or internal operations) and discusses potential—but not guaranteed—market impacts of such transfers. The piece also explains how on-chain data helps track unusual flows and why context matters more than any single transaction.",
+"summary_zh": "文章称，一笔来自 Kraken 的巨额提现引发关注：一个新启用的钱包从交易所转出 21,925 枚 ETH（约 1.0224 亿美元），由链上分析机构 Onchain Lens 监测到。文中给出可能原因（机构建仓、巨鲸调仓、或交易所内部操作），并强调此类转账对市场的影响并非必然，需结合更广泛的行情与情绪解读。同时介绍了链上数据对识别异常资金流的价值。",
+"best_quote_en": "This single Kraken ETH withdrawal amounted to 21,925 ETH, which translates to a staggering $102.24 million at the time of the transaction.",
+"best_quote_zh": "这笔来自 Kraken 的单笔 ETH 提现共计 21,925 枚，以当时价格折合约 1.0224 亿美元。"
 }
 ]
