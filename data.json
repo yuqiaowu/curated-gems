@@ -124,6 +124,34 @@
 "summary_zh": "报道称，特斯拉董事会为马斯克提出一项为期10年的“0工资、全期权”激励，若完成极高难度的OKR，潜在总价值可达约1万亿美元。方案分12档，与市值与运营指标挂钩：把特斯拉做到8.5万亿美元市值；调整后EBITDA达4000亿美元（最低档500亿美元）；累计交付2000万辆汽车；FSD活跃订阅1000万；交付100万台机器人；投运100万辆Robotaxi。全部达成后，马斯克持股可由约13%升至约25%（额外约12%在8.5万亿美元估值下约合1万亿美元）。该方案仍待11月股东大会表决；背景包括2018年期权激励两度被特拉华法院判无效，以及公司为留任推出的9600万股限制性股票（约300亿美元）与近期Q2业绩走弱。",
 "best_quote_en": "“The performance targets are the toughest ever — pushing Tesla to a market cap of $8.5 trillion.”",
 "best_quote_zh": "“绩效目标也是史上最严苛——市值要攀至8.5万亿美元。”"
+},
+  {
+"id": 1,
+"title": "Meta Superintelligence Lab’s first paper: redefining RAG with REFRAG",
+"title_zh": "Meta超级智能实验室首篇论文：重新定义RAG",
+"source": "量子位 (QbitAI)",
+"link": "https://www.qbitai.com/2025/09/329342.html",
+"tags": ["Meta", "Superintelligence Lab", "RAG", "REFRAG", "LLM", "inference efficiency", "TTFT", "long context"],
+"tags_zh": ["Meta", "超级智能实验室", "RAG", "REFRAG", "大语言模型", "推理效率", "首字延迟", "长上下文"],
+"date": "2025-09-08",
+"summary_en": "QbitAI covers Meta’s Superintelligence Lab’s first paper proposing REFRAG, an efficient decoding framework that ‘redefines’ retrieval-augmented generation. Observing block-diagonal attention sparsity across retrieved documents, REFRAG uses a Compress–Sense–Expand pipeline: a lightweight encoder builds cached chunk embeddings, an RL policy selects critical chunks to keep as raw text, and the main LLM decodes over a hybrid sequence. Reported results: up to 30.85× faster time-to-first-token (TTFT), ~3.75× over prior SOTA, no accuracy loss on QA/summary tasks, and an effective 16× expansion of usable context—benefiting RAG, multi-turn dialogue, and long-document summarization.",
+"summary_zh": "量子位报道：Meta 超级智能实验室推出 REFRAG 框架以“重定义”RAG。研究基于对检索文档注意力呈“块对角”稀疏的观察，采用“压缩—感知—扩展”流程：轻量编码器生成并缓存块嵌入，RL 策略网络判定需保留为原文的关键片段，主 LLM 在“嵌入+少量原文”的混合序列上解码。论文给出的结果包括：首字生成延迟（TTFT）最高提速 30.85×、较以往方法快约 3.75×，在问答/摘要等任务上“零精度损失”，并将等效上下文扩大至 16×，对多轮对话与长文摘要同样适用。",
+"best_quote_en": "“Up to 30× faster time-to-first-token (TTFT) while preserving accuracy.”",
+"best_quote_zh": "“最高可将首字生成延迟（TTFT）加速30倍。”"
+},
+  {
+"id": 1,
+"title": "WALL-OSS: China’s open-source embodied AI base model that outperforms π0",
+"title_zh": "开放全栈！超越π0，具身智能基础大模型迎来真·开源，开发者狂喜",
+"source": "量子位 (QbitAI)",
+"link": "https://www.qbitai.com/2025/09/329142.html",
+"tags": ["embodied AI", "WALL-OSS", "robotics", "open source", "multimodal", "CoT", "π0"],
+"tags_zh": ["具身智能", "WALL-OSS", "机器人", "开源", "多模态", "思维链", "π0"],
+"date": "2025-09-08",
+"summary_en": "QbitAI reports that X-Square Robot open-sourced WALL-OSS, a 4.2B-parameter general embodied foundation model that unifies language, vision, and actions and claims to beat π0 on both ID and OOD evaluations. It can be trained/deployed end-to-end on consumer-class GPUs (e.g., RTX 4090). The architecture uses shared attention plus expert FFNs to keep modalities in one space; training follows a two-stage 'Inspiration → Integration' scheme to transfer VLM cognition into precise control; and a unified cross-level Chain-of-Thought links instruction → reasoning → subtask planning → continuous actions. The release includes weights, training code, data interfaces, and detailed deployment docs. The team also announced ~RMB 1B A+ financing led by Alibaba Cloud and others to keep scaling the fully self-developed embodied base model.",
+"summary_zh": "量子位报道：自变量机器人宣布“真·开源”WALL-OSS——参数规模4.2B的通用具身基础模型，语言/视觉/动作端到端统一，号称在分布内与分布外评测上均优于π0；并可在消费级显卡（如RTX 4090）完成从训练到推理部署。其架构采用“共享注意力+专家FFN”，在同一表示空间处理多模态；训练上以“启发阶段→融合阶段”两步法，将VLM的认知能力稳定迁移到精细动作控制；并以统一的跨层级思维链将“指令→推理→子任务规划→连续动作”贯通。此次开源提供模型权重、训练代码、数据接口与部署文档；团队同日披露近10亿元A+轮融资（阿里云、国科投资领投，含红杉、美团等）以持续投入全自研通用具身智能基座训练。",
+"best_quote_en": "“We want the whole industry to access the most advanced, most general capability base at the lowest cost.” — X-Square Robot CTO",
+"best_quote_zh": "“我们想让整个行业以最低的成本，获得最先进、最通用的能力基座。”——自变量机器人CTO"
 }
   
 ]
